@@ -106,7 +106,7 @@ body {
 .item2 .perfil {
   position: relative;
   margin: 0 auto;
-  background-image: url(/portfólio/imagens/eu.png);
+  background-image: url(imagens/eu.png);
   background-size: 80% auto;
   background-repeat: no-repeat;
   background-position: center;
